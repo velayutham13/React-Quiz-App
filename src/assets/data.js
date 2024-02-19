@@ -1,0 +1,42 @@
+export const data=[
+    {
+        question:"Whice device is required for the Internet connection",
+        option1:"Modem",
+        option2:"Router",
+        option3:"LAN Cable",
+        option4:"Pen Drive",
+        ans:1,
+    },
+    {
+        question:"'OS' computer abbreviation usually means ?",
+        option1:"Order of Significance",
+        option2:"Open Software",
+        option3:"Operating System",
+        option4:"Optical Sensor",
+        ans:3,
+    },
+    {
+        question:"What is part of a database that holds only one type of information?",
+        option1:"Report",
+        option2:"Field",
+        option3:"Record",
+        option4:"File",
+        ans:2,
+    },
+    {
+        question:"Which of the following is used in pencils?",
+        option1:"Graphite",
+        option2:"Silicon",
+        option3:"Charcoal",
+        option4:"Phosphorous",
+        ans:1,
+    },
+    {
+        question:"Grand Central Terminal, Park Avenue, New York is the world's",
+        option1:"largest railway station",
+        option2:"highest railway station",
+        option3:"longest railway station",
+        option4:"None of the above",
+        ans:1,
+    },
+]
